@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sk Ms Soyeb</h1>
+<h1 align="center">Hi 👋, I'm Sk Md Soyeb</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.webp">
 
