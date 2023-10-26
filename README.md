@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sk Md Soyeb</h1>
+<h1 align="center">Hi 👋, I'm Sk Ms Soyeb</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyeb5047&label=Profile%20views&color=0e75b6&style=flat" alt="soyeb5047" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soyeb5047" alt="soyeb5047" /></a> </p>
 
 - 🔭 I’m currently working on **Portfolio Website**
 
